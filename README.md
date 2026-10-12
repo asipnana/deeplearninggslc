@@ -18,6 +18,7 @@ Eksperimen ini menggunakan arsitektur **ResNet-18** dan subset 10 kelas dari dat
 - `log_hasil_eksperimen.csv` : Log metrik mentah yang merekam proses pelatihan dari setiap epoch (Train/Val Loss & Accuracy).
 - `Tugas05_2802415744_MathildaRafaellaChristyNugroho.pdf` : Dokumen laporan yang berisi tabel konsolidasi, visualisasi kurva *loss*, dan *failure analysis* dari misklasifikasi.
 - `requirements.txt` : Daftar dependensi *library* Python.
+- '2802415744_GSLCDLA_Analisis Konseptual.pdf' : Jawaban analisis konseptual untuk beberapa nomor soal GLSC
 
 ## 🚀 Cara Menjalankan Kode
 1. *Clone* repositori ini:
